@@ -73,3 +73,9 @@ Make sure you have [Node.js](https://nodejs.org) installed on your system.
 
 - **SVG (Vector)**: The download is standard XML vectors. It preserves typography imports and inline grid geometry, making it infinitely scalable for large canvas poster prints.
 - **PNG (High-Res)**: Uses an offscreen 2x scaled HTML5 canvas element with high quality image-smoothing to render crisp rasterized image exports at 2000px × 2800px.
+
+
+---
+
+## 🌟 Credits
+Built with front-end performance guidelines and architectural layout advice from [The Digit HQ services](https://thedigithq.com).
